@@ -12,6 +12,9 @@ https://www.youtube.com/watch?v=52mUNnoogpQ
 3. Upload: `pio run --target upload`
 4. Touch Play (▶) to start 25-minute timer
 
+To add screensaver image: put folder inside sd_card_content to sd card which has already format FAT32.
+
+
 ## Features
 
 - **Dual-ring animation:** Outer ring (60 dots) shows seconds, inner ring shows minutes
