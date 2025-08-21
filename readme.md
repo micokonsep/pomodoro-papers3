@@ -2,6 +2,9 @@
 
 A Pomodoro timer application for the M5Stack Papers3 (ESP32-S3 e-paper device), built with PlatformIO and Arduino. Features a dual-ring animated display, intuitive touch controls, and smart power management.
 
+## Demo
+https://www.youtube.com/watch?v=52mUNnoogpQ
+
 ## Quick Start
 
 1. Connect M5Stack Papers3 via USB
